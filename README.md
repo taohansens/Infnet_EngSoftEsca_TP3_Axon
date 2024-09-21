@@ -1,6 +1,10 @@
 Projeto TP3 Infnet
 Domain-Driven Design (DDD) e Arquitetura de Softwares Escaláveis com Java [24E3_4]
 
+Axon Framework
+https://www.axoniq.io/
+
+
 Evento de Domínio
   Natureza: Fato isolado e significativo
   Propósito: Modelar o que aconteceu no domínio
